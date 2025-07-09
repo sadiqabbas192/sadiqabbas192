@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sadiqabbas192
 - 👀 I’m interested in Mathematics and Statistics
-- 🌱 I’m currently working as an Assistant Professor
-- 💞️ I’m looking to collaborate on for Analytics and Machine Learning Projects...
+- 📊 I’m currently working as an Sr Data Analyst
+- 🌱 Also contributing as an Assistant Professor
+- 💞️ I’m looking to collaborate on for new innovative ideas...
 - 📫 How to reach me ... sadiqabbas192@gmail.com
 
 <!---
