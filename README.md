@@ -1,24 +1,23 @@
-# Hi there, I'm Sadiq Shaikh! 👋
+# Hi there, I'm Sadiq Abbas! 👋
 
 Welcome to my GitHub profile!  
-I'm a passionate developer, automation enthusiast, and lifelong learner who loves building impactful solutions and sharing knowledge.
+I'm a developer, automation enthusiast, and lifelong learner who loves building impactful solutions, exploring new tech, and sharing knowledge with the world.
 
 ---
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Software Engineer** specializing in backend, automation, and AI.
-- 🌱 Currently exploring: **AI-powered apps** and **cloud automation**.
-- 🧠 Love working with Python, Java, and JavaScript.
-- 🛠️ Enjoy building tools, bots, and automation frameworks (check out my featured projects below!).
+- 🧑‍💻 **Software Engineer** focused on backend, automation, and AI.
+- 🌱 Currently exploring **AI-powered apps**, **cloud automation**, and next-gen web frameworks.
+- 🛠️ Building tools, bots, and automation frameworks.
 - 🤝 Always open to collaboration and learning from the community.
 
 ---
 
-## 🏗️ Featured Projects
+## 🏆 Featured Projects
 
 - [**fetch-youtube-api**](https://github.com/devtitus/YouTube-Data-Fetcher-API)  
-  A robust API for fetching, parsing, and utilizing YouTube data for diverse applications.
+  Robust API for fetching, parsing, and utilizing YouTube data for diverse applications.
 
 - [**rag-for-ba**](https://github.com/sadiqabbas192/rag-for-ba)  
   Retrieval-Augmented Generation system for business analytics.
@@ -27,7 +26,7 @@ I'm a passionate developer, automation enthusiast, and lifelong learner who love
   Interactive automation framework using Selenium and Jupyter Notebooks.
 
 - [**tsr-website**](https://github.com/sadiqabbas192/tsr-website)  
-  Modern and responsive website project.
+  Modern, responsive, and fast website project.
 
 ---
 
@@ -45,6 +44,7 @@ I'm a passionate developer, automation enthusiast, and lifelong learner who love
 
 ## 📊 GitHub Stats
 
+<!-- Replace with your preferred GitHub stats card! -->
 ![Sadiq Abbas' GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiqabbas192&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabbas192&layout=compact&theme=react)
 
@@ -52,9 +52,9 @@ I'm a passionate developer, automation enthusiast, and lifelong learner who love
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sadiqabbas192/)
-- 💬 [GitHub Discussions](https://github.com/sadiqabbas192/sadiqabbas192/discussions)
-- ✉️ sadiqabbas192@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sadiqabbas192/)
+- [GitHub Discussions](https://github.com/sadiqabbas192/sadiqabbas192/discussions)
+- [sadiqabbas192@gmail.com](mailto:sadiqabbas192@gmail.com)
 
 ---
 
